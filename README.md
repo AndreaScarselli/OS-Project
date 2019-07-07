@@ -1,4 +1,4 @@
-This program was realized as a project done for the Operating System course (Bachelor degree). I attempted this course in the 2015
+This program has been realized as a project done for the Operating System course (Bachelor degree). I attempted this course in the 2015
 at University of Rome "La Sapienza".
 
 Realization of an online showcase resident on a server. 
